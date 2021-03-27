@@ -1,0 +1,2 @@
+ec2-user:~/environment/mynews $ php artisan make:controller Admin/ProfileController                                  
+Controller created successfully.
